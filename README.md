@@ -22,6 +22,6 @@ I'm Software Development
 </p>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorLostadaC&layout=compact&langs_count=7&theme=dark"/></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor2022dev&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
 
