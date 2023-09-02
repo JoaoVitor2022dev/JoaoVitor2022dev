@@ -7,6 +7,10 @@ I'm Software Development
  - I'm passionate innovation and new technologies
  - always wanting to solve the world's problems with technology
 
+<br>
+<br>
+<br>
+
 <p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/joao-vitor-mocambite-26287527a/">
