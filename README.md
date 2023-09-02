@@ -1,4 +1,4 @@
-hi 👋, I'm João Vitor Mocambite Lima <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev" width="40" height="40"/>
+<h1>hi 👋, I'm João Vitor Mocambite Lima</h1> <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev" width="40" height="40"/>
 
 ### about me
 I'm Software Development  
@@ -18,6 +18,9 @@ I'm Software Development
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor2022dev&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
+
+<br>
+<br>
 
 # My Technology
 
