@@ -1,6 +1,6 @@
-<h1>hi 👋, I'm João Vitor Mocambite Lima</h1> <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev" width="40" height="40"/>
+<h1>hi 👋, I'm João Vitor Mocambite Lima</h1> 
 
-### about me
+### About me
 I'm Software Development  
 
  - I'm currently learning everything
@@ -11,6 +11,8 @@ I'm Software Development
 <br>
 <br>
 
+<h2>Social media</h2>
+
 <p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/joao-vitor-mocambite-26287527a/">
@@ -18,6 +20,11 @@ I'm Software Development
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<br>
+<br>
+
+<h2>Activities and Commits</h2>
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor2022dev&layout=compact&langs_count=7&theme=dark"/></a>
