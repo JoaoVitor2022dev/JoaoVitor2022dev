@@ -8,8 +8,6 @@ I'm Software Development
  - always wanting to solve the world's problems with technology
 
 <br>
-<br>
-<br>
 
 <h2>Social media</h2>
 
@@ -22,8 +20,6 @@ I'm Software Development
 </p>
 
 <br>
-<br>
-
 <h2>Activities and Commits</h2>
 
 <div align="center">
