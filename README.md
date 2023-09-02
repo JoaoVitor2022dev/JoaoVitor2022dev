@@ -7,7 +7,6 @@ I'm Software Development
  - I'm passionate innovation and new technologies
  - always wanting to solve the world's problems with technology
 
-<br>
 
 <h2>Social media</h2>
 
@@ -24,9 +23,10 @@ I'm Software Development
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor2022dev&layout=compact&langs_count=7&theme=dark"/></a>
+ <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitor2022dev&show_icons=true&count_private=true&layout=compact&theme=dark&include_all_commits=true" align="left" style="height: 150px" />
 </div>
+<div>
 
-<br>
 <br>
 
 # My Technology
