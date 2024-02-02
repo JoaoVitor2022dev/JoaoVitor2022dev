@@ -32,5 +32,5 @@ I'm Software Development
 # My Technology
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,git,dotnet,csharp&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,mysql,git,dotnet,sqlserver&perline=9" />
 </p>
