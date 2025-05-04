@@ -1,11 +1,18 @@
-<h1>hi 👋, I'm João Vitor Mocambite Lima</h1> 
+<h1>👋 Olá, eu sou João Vitor Mocambite Lima </h1>
 
-### About me
-I'm Software Development  
 
- - I'm currently learning everything
- - I'm passionate innovation and new technologies
- - always wanting to solve the world's problems with technology
+<h3>Sou Analista de Dados apaixonado por transformar dados em insights valiosos.</h3>
+
+
+📚 Atualmente, estou aprofundando meus conhecimentos em análise de dados, estatística e business intelligence.
+
+🛠️ Tenho experiência no uso de ferramentas analíticas como SQL, Excel, Power BI e Python.
+
+💡 Sou movido pela paixão de extrair insights que impulsionam a inovação e a tomada de decisões estratégicas.
+
+🧠 Possuo forte pensamento analítico, sempre focado em resolver problemas de forma eficiente através dos dados.
+
+🔍 Estou sempre explorando novas tecnologias e metodologias para otimizar estratégias orientadas por dados.
 
 
 <h2>Social media</h2>
