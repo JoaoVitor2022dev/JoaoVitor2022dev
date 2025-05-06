@@ -6,7 +6,7 @@
 
 📚 Atualmente, estou aprofundando meus conhecimentos em análise de dados, estatística e business intelligence.
 
-🛠️ Tenho experiência no uso de ferramentas analíticas como SQL, Excel, Power BI e Python.
+🛠️ Tenho experiência no uso de ferramentas analíticas como SQL, Excel, Power BI .
 
 💡 Sou movido pela paixão de extrair insights que impulsionam a inovação e a tomada de decisões estratégicas.
 
