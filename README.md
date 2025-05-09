@@ -4,15 +4,15 @@
 <h3>Sou Analista de Dados apaixonado por transformar dados em insights valiosos.</h3>
 
 
-📚 Atualmente, estou aprofundando meus conhecimentos em análise de dados, estatística e business intelligence.
+ Atualmente, estou aprofundando meus conhecimentos em análise de dados, estatística e business intelligence.
 
-🛠️ Tenho experiência no uso de ferramentas analíticas como SQL, Excel, Power BI .
+ Tenho experiência no uso de ferramentas analíticas como SQL, Excel, Power BI .
 
-💡 Sou movido pela paixão de extrair insights que impulsionam a inovação e a tomada de decisões estratégicas.
+ Sou movido pela paixão de extrair insights que impulsionam a inovação e a tomada de decisões estratégicas.
 
-🧠 Possuo forte pensamento analítico, sempre focado em resolver problemas de forma eficiente através dos dados.
+Possuo forte pensamento analítico, sempre focado em resolver problemas de forma eficiente através dos dados.
 
-🔍 Estou sempre explorando novas tecnologias e metodologias para otimizar estratégias orientadas por dados.
+Estou sempre explorando novas tecnologias e metodologias para otimizar estratégias orientadas por dados.
 
 
 <h2>Social media</h2>
