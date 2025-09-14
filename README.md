@@ -39,5 +39,5 @@ Estou sempre explorando novas tecnologias e metodologias para otimizar estratég
 # My Technology
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=excel,powerbi,mysql,git&perline=9" />
+    <img src="https://skillicons.dev/icons?i=excel,python,powerbi,mysql,git&perline=9" />
 </p>
