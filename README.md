@@ -1,19 +1,18 @@
 <h1>👋 Olá, eu sou João Vitor Mocambite Lima </h1>
 
 
-<h3>Sou Analista de Dados apaixonado por transformar dados em insights valiosos.</h3>
+<h3>Sou analista de dados e automações.</h3>
+ 
+ <h3>Tudo bem? Seja bem-vindo ao meu espaço!</h3>
+ <h1></h1>
+
+ Este é meu laboratório de experimentos e aprendizado contínuo, onde transformo dados brutos em insights poderosos e ideias em ações estratégicas. 
+ 
+ 
+ Aplico minhas habilidades em Excel avançado, VBA/Macro, SQL, Power BI e Python para automatizar processos repetitivos, liberando tempo para pensar, analisar e criar soluções inovadoras. Amo aprender novas tecnologias e explorar ferramentas que potencializem resultados, porque a verdadeiro profissional de análise de dados não é apenas apertar botões, mas pensar, entender e criar melhorias contínuas.
 
 
- Atualmente, estou aprofundando meus conhecimentos em análise de dados, estatística e business intelligence.
-
- Tenho experiência no uso de ferramentas analíticas como SQL, Excel, Power BI .
-
- Sou movido pela paixão de extrair insights que impulsionam a inovação e a tomada de decisões estratégicas.
-
-Possuo forte pensamento analítico, sempre focado em resolver problemas de forma eficiente através dos dados.
-
-Estou sempre explorando novas tecnologias e metodologias para otimizar estratégias orientadas por dados.
-
+Venha conhecer algumas das minhas automações e dashboards de dados e veja como transformo informação em ações estratégicas!
 
 <h2>Social media</h2>
 
