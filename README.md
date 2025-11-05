@@ -38,5 +38,5 @@ Venha conhecer algumas das minhas automações e dashboards de dados e veja como
 # My Technology
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,git&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,git,postgres,postman,vscode,github&perline=9" />
 </p>
