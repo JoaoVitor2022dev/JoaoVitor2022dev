@@ -24,17 +24,6 @@ Venha conhecer algumas das minhas automações e dashboards de dados e veja como
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
-<h2>Activities and Commits</h2>
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor2022dev&layout=compact&langs_count=7&theme=dark"/></a>
- <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitor2022dev&show_icons=true&count_private=true&layout=compact&theme=dark&include_all_commits=true" align="left" style="height: 150px" />
-</div>
-<div>
-
-<br>
-
 # My Technology
 
 <p align="center">
